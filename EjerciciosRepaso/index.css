@@ -1,0 +1,27 @@
+body{
+    background-color: greenyellow;
+}
+header{
+    background-color: deepskyblue;
+    color: blue;
+    text-align: center;
+    margin-top: -29px;
+    font-size: 22px;
+}
+fieldset{
+    width:340px;
+    height: 90px;
+    margin:0 auto;
+}
+fieldset legend{
+    color: green;
+}
+fieldset form {
+    line-height: 25px;
+}
+#imagen1 {
+    display: block;
+    margin: 0 auto;
+}
+
+
